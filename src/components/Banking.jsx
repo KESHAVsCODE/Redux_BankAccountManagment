@@ -1,5 +1,5 @@
 import { Input, Button, Flex } from "@mantine/core";
-import React, { useState } from "react";
+import { useState } from "react";
 import { useDispatch } from "react-redux";
 
 const Banking = () => {
